@@ -1,0 +1,1 @@
+Saya melakukan pemindaian (scan) jalur I²C di ESP8266 dan berhasil mendeteksi alamat sensor TSL2561 (cahaya) dan SHT31 (suhu/kelembapan). Alamat-alamat tersebut sudah saya cetak ke Serial Monitor agar bisa diverifikasi dan dipakai saat inisialisasi sensor.
